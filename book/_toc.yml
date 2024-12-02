@@ -1,12 +1,20 @@
 format: jb-book
-root: intro.md
+root: intro
+options:
+  numbered: 2
 
 parts:
-  - caption: Contents
+  - caption: Fundamentals
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+      - file: preliminaries/intro
+        sections:
+          - file: preliminaries/tensors
+          - file: preliminaries/linear_algebra
+          - file: preliminaries/calculus
+          - file: preliminaries/complex_number
+
+  - caption: Room Acoustics
+    chapters:
+      - file: RoomAcoustics/intro
+        sections:
+          - file: RoomAcoustics/roomModes.ipynb

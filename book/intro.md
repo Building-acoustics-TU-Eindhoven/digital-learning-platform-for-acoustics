@@ -1,6 +1,7 @@
+(intro)=
 # Introduction
 
-Welcome to the **Digital Learning Platform for Acoustics**, an initiative designed to enhance the teaching and learning experience in the field of acoustics. This platform aims to provide accessible, interactive, and comprehensive resources that support students in understanding complex acoustics concepts through a modern, digital approach.
+Welcome to the **Digital Learning Platform for Acoustics**, an initiative designed to enhance the teaching and learning experience in the field of acoustics. This platform aims to provide accessible, interactive, and comprehensive resources that support students in understanding complex acoustics concepts through a modern, digital approach. It utilizes [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) to combine theoretical explanations with practical code demonstrations, facilitating an engaging learning experience.
 
 ## Purpose of the Platform
 

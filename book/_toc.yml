@@ -2,11 +2,24 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: Fundamentals of Acoustics
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+      - file: fundamentals/intro
+        sections:
+          - file: fundamentals/harmonic_motion
+          # - file: fundamentals/complex_number
+
+  # START REMOVE-FROM-PUBLISH
+  # - caption: Room Acoustics
+  #   chapters:
+  #     - file: RoomAcoustics/intro
+  #       # sections:
+  #         # - file: RoomAcoustics/roomModes.ipynb
+
+  # - caption: Live code
+  #   chapters:
+  #     - file: LiveCode/intro
+  #       sections:
+  #         - file: LiveCode/week1.ipynb
+  #         - file: LiveCode/test.ipynb
+# END REMOVE-FROM-PUBLISH

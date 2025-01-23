@@ -7,7 +7,7 @@ parts:
       - file: fundamentals/intro
         sections:
           - file: fundamentals/harmonic_motion
-          # - file: fundamentals/complex_number
+          - file: fundamentals/complex_number
 
   # START REMOVE-FROM-PUBLISH
   # - caption: Room Acoustics

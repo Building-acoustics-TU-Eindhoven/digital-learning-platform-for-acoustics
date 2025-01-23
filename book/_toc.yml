@@ -9,6 +9,7 @@ parts:
           - file: fundamentals/harmonic_motion
           - file: fundamentals/complex_number
           - file: fundamentals/impedance
+          - file: fundamentals/resonance
 
   # START REMOVE-FROM-PUBLISH
   # - caption: Room Acoustics

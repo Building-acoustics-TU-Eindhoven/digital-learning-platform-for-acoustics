@@ -91,4 +91,3 @@ Reconstruction involves converting the discrete samples back into a continuous s
 
 - Digitizing analog sound for storage and processing.
 - Ensuring fidelity in audio playback systems.
-

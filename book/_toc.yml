@@ -15,6 +15,7 @@ parts:
       - file: Fourier/intro
         sections:
           - file: Fourier/fourier_analysis
+          - file: Fourier/fourier_transform
 
   # START REMOVE-FROM-PUBLISH
   # - caption: Room Acoustics

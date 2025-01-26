@@ -3,6 +3,7 @@ root: intro.md
 
 parts:
   - caption: Fundamentals of Acoustics
+    numbered: 2
     chapters:
       - file: fundamentals/intro
         sections:
@@ -10,6 +11,10 @@ parts:
           - file: fundamentals/complex_number
           - file: fundamentals/impedance
           - file: fundamentals/resonance
+
+      - file: Fourier/intro
+        sections:
+          - file: Fourier/fourier_analysis
 
   # START REMOVE-FROM-PUBLISH
   # - caption: Room Acoustics
@@ -25,3 +30,6 @@ parts:
   #         - file: LiveCode/week1.ipynb
   #         - file: LiveCode/test.ipynb
 # END REMOVE-FROM-PUBLISH
+  - caption: Miscallaneous
+    chapters:
+    - file: references.md

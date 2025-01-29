@@ -138,3 +138,6 @@ pyproject.toml
 
 # Copilot instructions
 .github/*.md
+
+# testing
+LiveCode/

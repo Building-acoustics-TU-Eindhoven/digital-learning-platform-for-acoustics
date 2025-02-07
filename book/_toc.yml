@@ -35,4 +35,6 @@ parts:
 # END REMOVE-FROM-PUBLISH
   - caption: Miscallaneous
     chapters:
+    - file: overview.md
+      title: Overview & Usage
     - file: references.md

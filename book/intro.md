@@ -1,4 +1,3 @@
-(intro)=
 # Introduction
 
 Welcome to the **Digital Learning Platform for Acoustics**, an initiative designed to enhance the teaching and learning experience in the field of acoustics. This platform aims to provide accessible, interactive, and comprehensive resources that support students in understanding complex acoustics concepts through a modern, digital approach. It is built based on open-source community of [TEACHBOOKS](https://teachbooks.io/) and utilizes [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) to combine theoretical explanations with practical code demonstrations, facilitating an engaging learning experience.
@@ -13,17 +12,9 @@ Acoustics, as an academic discipline, encompasses a wide range of topics that re
 
 ## Key Features
 
-1. **Comprehensive Content**: The platform includes theoretical explanations, digital tutorials, and programming exercises, all tailored to the specific needs of acoustics education.
-2. **Jupyter Notebook Integration**: Teaching materials leverage the interactivity of Jupyter Notebooks, allowing students to experiment with Python scripts and visualize acoustics phenomena in real-time.
+1. **Content**: The platform includes theoretical explanations, digital tutorials, and programming exercises, all tailored to the specific needs of acoustics education.
+2. **Jupyter Notebook Integration**: Teaching materials leverage the interactivity of Jupyter Notebooks, allowing students to experiment with Python scripts and visualize acoustics phenomena in real-time.  Click {fa}`rocket` --> {guilabel}`Live Code` on the top right corner of interactive page to start up a python-kernel in your browser. Any interactions you do there are not saved. You can also download the page as a notebook to run the code locally on your own device.
 3. **Open-Access Repository**: The platform is hosted on GitHub, ensuring transparency, collaborative development, and ease of access for both students and educators.
-
-## Objectives
-
-The primary goal of this platform is to bridge the gap between traditional teaching methodologies and the evolving needs of acoustics education. By utilizing modern tools and approaches, we aim to:
-
-- Simplify the understanding of complex acoustics principles.
-- Enhance student engagement through interactive and visually appealing resources.
-- Provide a sustainable, scalable, and open-access repository for acoustics education.
 
 ## Target Audience
 
@@ -31,6 +22,15 @@ This platform is intended for:
 - **Undergraduate and Graduate Students**: Enrolled in courses related to room acoustics, building acoustics, or environmental acoustics.
 - **Educators and Researchers**: Seeking high-quality, interactive materials to supplement their teaching or research activities.
 - **Professionals**: Interested in revisiting or expanding their knowledge in acoustics.
+
+## Feedback and Suggestions
+
+We are committed to continuously enhancing this online book and highly value your feedback. If you notice any errors or have general recommendations, we encourage you to contribute through the options available at the top right of each page, which provide direct access to the GitHub repository hosting this content. Specifically:
+
+- The "Suggest Edit" option allows you to propose modifications or corrections directly as a Git commit.
+- The "Issue" option enables you to report broader concerns, suggest improvements, or propose new features.
+  
+To participate, you will need a GitHub account. Once your suggestion or issue is submitted, we will review and integrate relevant changes via a Pull Request. You will be notified on GitHub once the update is incorporated.
 
 ## Authors
 - Huiqing Wang (h.wang6@tue.nl)

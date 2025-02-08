@@ -19,6 +19,9 @@ parts:
           - file: Fourier/fourier_series
           - file: Fourier/audio_analysis
 
+      - file: wave/intro
+        sections:
+          - file: wave/attenuation
   # START REMOVE-FROM-PUBLISH
   # - caption: Room Acoustics
   #   chapters:

@@ -22,6 +22,7 @@ parts:
       - file: wave/intro
         sections:
           - file: wave/attenuation
+          - file: wave/spherical_wave
   # START REMOVE-FROM-PUBLISH
   # - caption: Room Acoustics
   #   chapters:
